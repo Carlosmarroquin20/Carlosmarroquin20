@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Carlosmarroquin20](https://github.com/Carlosmarroquin20)
 
-- 🖥️ You can see my portfolio online here: (https://emadev.netlify.app/)
+- 🖥️ You can see my portfolio online here: https://emadev.netlify.app/
 
 - 💬 Ask me about ****JS, HTML/CSS,REACT, NODE.JS and SQL**: I have extensive experience in these technologies.**
 
