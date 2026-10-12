@@ -140,7 +140,7 @@ I integrate LLM APIs into real applications — from intelligent query assistant
 ### 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-PROFILE">
+  <a href="https://www.linkedin.com/in/emanuel-marroquin-160488321/?isSelfProfile=true">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:carlosema322@gmail.com">
